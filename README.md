@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 On the top is using [https://redux.js.org/](Redux) for keeping state and changing state of app.
 Application is also using localStorage to keep data
 
+## Demo
+Link for working version [https://marcelijanowski.github.io/rectangles/build/](Demo)
+
 ## Table of Contents
 
 - [Available Scripts](#available-scripts)
