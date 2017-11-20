@@ -3,7 +3,7 @@ On the top is using [https://redux.js.org/](Redux) for keeping state and changin
 Application is also using localStorage to keep data
 
 ## Demo
-Link for working version [https://marcelijanowski.github.io/rectangles/build/](Demo)
+Link for working version [https://marcelijanowski.github.io/rectangles/build/](https://marcelijanowski.github.io/rectangles/build/)
 
 ## Table of Contents
 
