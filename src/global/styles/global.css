@@ -1,0 +1,13 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 960px;
+  font-family: sans-serif;
+  background: var(--colorGrey)
+}
+
+@media print {
+   body {
+     background: var(--colorGreyInverted)
+   }
+}

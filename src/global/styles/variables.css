@@ -1,0 +1,11 @@
+/*
+ * Global variables
+ * Only add variables and media queries to this file, no css selectors
+ */
+:root {
+  --fontArial: 'Arial', 'sans-serif';
+  --colorWhite: #FFFFFF;
+  --colorDarkBlue: #005eb8;
+  --colorGrey: #f1f1f1;
+  --colorGreyInverted: #0E0E0E;
+}

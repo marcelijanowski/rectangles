@@ -1,0 +1,44 @@
+input, textarea {
+	padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	color: var(--colorDarkBlue);
+	font-size: 14px;
+}
+
+form {
+	width: 320px;
+	margin: 50px auto;
+	text-align: center;
+	position: relative;
+}
+
+.form-side {
+  float: left;
+}
+.action-button {
+	width: 150px;
+	background: #27AE60;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px 5px;
+  font-size: 15px;
+  font-weight: 300
+}
+.action-button:hover, .action-button:focus {
+	box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+
+label {
+  float: left;
+  font-size: 14px;
+  margin: 0 0 5px 0;
+  color: var(--colorDarkBlue)
+}
